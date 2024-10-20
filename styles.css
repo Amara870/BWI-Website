@@ -1,0 +1,29 @@
+/*styles first heading*/
+h1{
+    text-align: center;
+}
+
+/*styles second heading*/
+h2{
+    text-align: center;
+}
+
+/*styles body*/
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(206, 179, 231);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+/*Styles footer*/
+footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+}
